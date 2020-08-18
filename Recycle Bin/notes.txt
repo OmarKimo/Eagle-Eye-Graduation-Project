@@ -1,0 +1,31 @@
+user can enter:
+1- 2 image for the same place in different time
+2- image and list
+3- only image
+
+
+class:
+0- another
+1- building
+2- agriculture
+3- Road
+4- water
+
+
+Features:
+1- size
+2- red avg
+3- green avg
+4- blue avg
+5- entropy 
+mean, standard deviation, variance, 2nd moment, direct cosine transforms,
+correlation, co-variance, autocorrelation,energy, entropy, homogeneity, contrast,
+maximum probability and sum of variance of the hue, saturation, intensity,
+and NIR channels as well as those of the color co-occurrence matrices.
+
+
+
+
+try :
+1 model for all class vs model for each class
+1 model for segm and class vs model for segm. and another for class

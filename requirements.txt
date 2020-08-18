@@ -1,0 +1,10 @@
+keras==2.3.1
+matplotlib
+numpy
+opencv-python
+pandas
+pillow
+shapely
+scikit-learn
+tensorflow==2.0.0
+tifffile
