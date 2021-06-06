@@ -10,6 +10,7 @@ The programming language used in this project is Python. The network structures 
 The outcomes of the project are fairly satisfactory considering the limited computational resources we had to work with. Our best model achieves an accuracy of 80% at 11 label classes.
 
 ### System Architecture
+#### Note : size in first image is not accurate 
 ![U-net](https://github.com/OmarKimo/Eagle-Eye-Graduation-Project/blob/master/Images/Unet.png)
 ![U-net](https://github.com/OmarKimo/Eagle-Eye-Graduation-Project/blob/master/Images/U-net%201.png)
 ![U-net](https://github.com/OmarKimo/Eagle-Eye-Graduation-Project/blob/master/Images/U-net%202.png)
