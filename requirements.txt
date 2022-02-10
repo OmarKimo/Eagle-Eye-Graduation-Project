@@ -6,5 +6,5 @@ pandas
 pillow
 shapely
 scikit-learn
-tensorflow==2.5.1
+tensorflow==2.5.3
 tifffile
